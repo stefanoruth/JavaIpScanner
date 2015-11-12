@@ -26,6 +26,7 @@ public class DeviceStorage extends XmlStorage {
 		}
 		
 		sendToFile("C:\\Users\\stefa\\Documents\\file.xml");
+		readFile("C:\\Users\\stefa\\Documents\\file.xml");
 	}
 
 }
